@@ -1,0 +1,90 @@
+img {
+  position: absolute;
+  left: 97.95px;
+  right: 97.63px;
+  top: 97px;
+  bottom: 90px;
+}
+
+.image-desktop {
+  position: absolute;
+  width: 379px;
+  height: 404px;
+  left: 241px;
+  top: 244px;
+
+  background: #c4c4c4;
+  border-radius: 25px;
+}
+
+.image-mobile {
+  position: absolute;
+  width: 379px;
+  height: 404px;
+  left: 820px;
+  top: 244px;
+
+  background: #c4c4c4;
+  border-radius: 25px;
+}
+
+.title-desktop {
+  position: absolute;
+  width: 147px;
+  height: 47px;
+  left: 353px;
+  top: 181px;
+
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 47px;
+  color: #000000;
+}
+
+.title-mobile {
+  position: absolute;
+  width: 121px;
+  height: 47px;
+  left: 949px;
+  top: 181px;
+
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 47px;
+  color: #000000;
+}
+
+.timer-desktop {
+  position: absolute;
+  width: 155px;
+  height: 47px;
+  left: 353px;
+  top: 671px;
+
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 47px;
+
+  color: #000000;
+}
+.timer-mobile {
+  position: absolute;
+  width: 155px;
+  height: 47px;
+  left: 938px;
+  top: 671px;
+
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 47px;
+
+  color: #000000;
+}
